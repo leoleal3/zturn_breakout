@@ -1,13 +1,12 @@
 EESchema Schematic File Version 4
-LIBS:zturn_breakout_v1.0-cache
 EELAYER 30 0
 EELAYER END
 $Descr B 17000 11000
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Z-Turn Breakout Board"
+Date "2020-01-10"
+Rev "V1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
